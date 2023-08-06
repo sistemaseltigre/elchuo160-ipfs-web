@@ -9,5 +9,3 @@ echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] http
 sudo apt update
 
 sudo apt install brave-browser
-
-brand student spare riot slight demise smooth desert absurd pair twist wool
